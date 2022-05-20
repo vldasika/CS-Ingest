@@ -6,6 +6,6 @@ The Clearsense Data Management Platform is a secure and scalable platform that i
 
 Finally, you can trust your data!
 
--Data Ingestion
--Data Management
--Data Consumption
+- Data Ingestion
+- Data Management
+- Data Consumption
