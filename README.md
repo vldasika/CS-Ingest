@@ -7,9 +7,7 @@ Committed to leading transformation in healthcare, Clearsense® creates a data j
 The Clearsense Data Management Platform is a secure and scalable platform that ingests, aggregates, and manages data allowing users to consume and use the data to make informed real-time decisions. With the ability to leverage data from disparate systems across the organization, Clearsense's data-first approach eliminates assumptions and replaces them with a single source of trusted data. 
 
 Finally, you can trust your data!
-
 - Data Ingestion
 - Data Management
 - Data Consumption
-
 ![](https://github.com/vldasika/CS_Ingest/blob/main/Clearsense-data-platform-overview-vin-01.svg)
