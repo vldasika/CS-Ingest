@@ -11,3 +11,5 @@ Finally, you can trust your data!
 - Data Ingestion
 - Data Management
 - Data Consumption
+
+![](https://github.com/vldasika/CS_Ingest/blob/main/Clearsense-data-platform-overview-vin-01.svg)
