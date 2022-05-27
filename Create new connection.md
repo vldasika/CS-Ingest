@@ -1,6 +1,6 @@
 To create a new data connection,
 
-**Step I: Navigate to Data Ingestion module, select Connections tab and click Setup New Connection. ** 
+**Step I: Navigate to Data Ingestion module, select Connections tab and click Setup New Connection.** 
 
 Setup a Connection window appears and prompts you to provide the details for the new data connection.
 
