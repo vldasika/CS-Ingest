@@ -1,4 +1,5 @@
 ## 1. Edit dashboard name
+This sections allows you to edit the name of the dashboard.
 ## 2. Delete a dashboard
 ## 3. Mark as favorite
 ## 4. Edit layout
