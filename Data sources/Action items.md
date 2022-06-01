@@ -1,5 +1,8 @@
 ## 1. Add new data source
 
+### a. Associate a CDE
+
+
 ## 2. Add a filter
 
 ## 3. Search existing data source
