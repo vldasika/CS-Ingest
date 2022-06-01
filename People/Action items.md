@@ -1,5 +1,6 @@
 ## 1. Add new steward
 ## 2. Add a filter
+### a. Add a condition
 ## 3. Search existing steward
 ## 4. Edit columns
 ## 5. Edit steward
