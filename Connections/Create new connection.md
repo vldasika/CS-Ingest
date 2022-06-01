@@ -6,13 +6,13 @@ Setup a Connection window appears and prompts you to provide the details for the
 
 **Step II: Select or choose a source data**
 
-In the Setup a Connection window, selecta a source in the Source information tab, You can either select from the existing source databases or choose a new data source.
+In the Setup a Connection window, selecta a source in the Source information tab, you can either select from the existing source databases or choose a new data source.
 
 **Step III: Select or choose a target data**
 
-In the Setup a Connection window, selecta a target in the Target information tab, You can either select from the existing databases or choose a new data source.
+Click **Next** and selecta a target in the Target information tab, either select from an existing database or choose a new.
 
 **Step IV: Save the data connection**
 
-To save the changes made to the data connection, refer **Saving a data connection**.
+To save the changes, refer **Saving a data connection**.
 
