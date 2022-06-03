@@ -1,5 +1,7 @@
 ## 1. Add new CDE
 
+### a. Add new CDE in Domain module
+
 ## 2. Add a filter
 
 ### a. Add a condition
