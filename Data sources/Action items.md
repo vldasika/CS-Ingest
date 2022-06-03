@@ -1,6 +1,7 @@
 ## 1. Add new data source
 
-### a. Associate a data source in Provider
+### a. Associate a data source in provider
+Actions: Save and add more, Save and close, Close
 
 ## 2. Add a filter
 
