@@ -4,7 +4,7 @@
 
 Actions: Save and Add more, Save and close, Close
 
-### b. Associate a data source in provider
+### b. Associate a CDE in provider
 
 Actions: Save and Add more, Save and close, Close
 
