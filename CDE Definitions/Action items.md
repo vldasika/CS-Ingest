@@ -1,6 +1,6 @@
 ## 1. Add new CDE
 
-### a. Add new CDE in Domain module
+### a. Create new CDE in Claims Domain
 
 ## 2. Add a filter
 
