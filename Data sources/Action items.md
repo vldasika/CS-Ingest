@@ -1,7 +1,6 @@
 ## 1. Add new data source
 
-### a. Associate a CDE
-
+### a. Associate a data source in Provider
 
 ## 2. Add a filter
 
