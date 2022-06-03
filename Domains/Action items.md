@@ -5,6 +5,10 @@
 
 ### a. Add a condition
 
+### b. Add a business term to provider
+
+### c. Associate a business term to provider
+
 
 ## 3. Search existing domain
 
