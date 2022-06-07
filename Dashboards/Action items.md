@@ -5,8 +5,8 @@ A dashboard is a collection of varied reports in GUI represenation, it's built b
 ## 1. Edit dashboard name
 This action allows you to edit the name of the dashboard.
 
-> Step by approach >
-From the list of dashboards
+> Step by approach to edit a dashboard
+> Navigate to Dashboards tab, select a dashboard and click the ellipsis ![](https://github.com/vldasika/CS_Ingest/blob/Data-Consumption/Images/ellipses.png), select **Edit**.
 
 ## 2. Delete a dashboard
 This action allows you to delete a dashboard.
