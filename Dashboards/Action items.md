@@ -1,5 +1,9 @@
 
-A dashboard is a collection of varied reports in GUI represenation built based upon various objects belonging to various CDE. The dashboard contains following action items and you can drill down to each section for detailed information.
+A dashboard is a collection of varied reports in GUI represenation, it's built based upon various objects belonging to multiple CDEs.
+
+The dashboard contains following action items and you can drill down to each section for detailed information.
+
+# Key Action Items
 
 ## 1. Edit dashboard name
 This action allows you to edit the name of the dashboard.
