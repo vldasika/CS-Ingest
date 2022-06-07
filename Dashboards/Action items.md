@@ -1,5 +1,5 @@
 
-The dashboard consists of following action items and you can drill down to each section for detailed information.
+The dashboard contains following action items and you can drill down to each section for detailed information.
 
 ## 1. Edit dashboard name
 This action allows you to edit the name of the dashboard.
