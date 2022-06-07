@@ -10,30 +10,40 @@ Navigate to Dashboards tab:arrow_right:select a dashboard and click the ellipsis
 
 ## 2. Delete a dashboard
 This action allows you to delete a dashboard.
+_Step by approach to delete a dashboard_
 
 ## 3. Mark as favorite
 This action allows you to mark a dashboard as favorite.
+_Step by approach to mark as favorite_
 
 ## 4. Edit layout
 This action allows you to edit the layout.
+_Step by approach to edit the layout_
 
 ## 5. Download charts
-This action allows you to download the charts.
+This action allows you to download as charts.
+_Step by approach to download a chart_
 
 ## 6. Select chart
 This action allows you to select a chart.
+_Step by approach to select a chart_
 
 ## 7. Edit chart
 This action allows you to edit a chart.
+_Step by approach to edit a chart_
 
 ## 8. View query
 This action allows you to view the executed query.
+_Step by approach to view the executed query_
 
 ## 9. Download as image
-This action allows you to downalod the dashboard as a image.
+This action allows you to download the dashboard as a image.
+_Step by approach to download as image_
 
 ## 10. Export as CSV
-This action allows you to export the dashboard as csv file.
+This action allows you to export the dashboard as CSV file.
+_Step by approach to export as CSV_
 
 ## 11. Maximize/minimize chart
-This action allows you to maximize/minimize the existing charts.
+This action allows you to set the feasible region using maximize/minimize to view the charts.
+_Step by approach to control the chart_
