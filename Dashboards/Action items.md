@@ -54,6 +54,6 @@ This action allows you to export the dashboard as CSV file.
 _Step by approach to export as CSV_
 
 ## 11. Maximize/minimize chart
-This action allows you to set the feasible region using maximize/minimize to view the charts.
+This action allows you to set the feasible region i.e easily enlarge or shrink a chart using the maximize/minimize.
 
 _Step by approach to control the chart_
