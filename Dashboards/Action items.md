@@ -5,7 +5,7 @@ A dashboard is a collection of varied reports in GUI represenation, it's built b
 ## 1. Edit dashboard name
 This action allows you to edit the name of the dashboard.
 
-> Step by approach
+> Step by approach >
 From the list of dashboards
 
 ## 2. Delete a dashboard
