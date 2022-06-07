@@ -10,6 +10,8 @@ Actions: Save and add more, Save and close, Close
 ## 3. Search existing steward
 
 ## 4. Edit columns
+You can enable the column items sorted by their name, description, alias, type, department,and actions.
+
 
 ## 5. Edit steward
 
