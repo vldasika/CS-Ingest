@@ -8,6 +8,8 @@ _Step by approach to edit a dashboard_
 
 Navigate to Dashboards tab:arrow_right:select a dashboard and click the ellipsis![](https://github.com/vldasika/CS_Ingest/blob/Data-Consumption/Images/ellipses.png) and:arrow_right:select **Edit**.
 
+![](screenshot)
+
 ## 2. Delete a dashboard
 This action allows you to delete a dashboard.
 
