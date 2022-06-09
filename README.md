@@ -9,4 +9,4 @@ Finally, you can trust your data!
 - Data Management
 - Data Consumption
 
-![](https://github.com/vldasika/CS-Ingest/blob/main/Images/home%20screen.png)
+![](https://github.com/vldasika/CS-Ingest/raw/main/Images/home%20screen.png)
